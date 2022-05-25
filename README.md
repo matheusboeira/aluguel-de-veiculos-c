@@ -6,7 +6,7 @@ Este projeto não possui nenhum dado sensível e é totalmente fictício. Enfati
 
 ### Demonstração do _Software_
 
-![GIF_HERE]()
+![preview](https://user-images.githubusercontent.com/76896958/170173865-8c3e2884-6dc7-4d6e-a963-b0481e182d4b.gif)
 
 ## Informações extras
 
