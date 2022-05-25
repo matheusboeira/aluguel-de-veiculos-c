@@ -1,0 +1,142 @@
+Relatório gerado em: 24/05/2022 20:40:59
+
+[CARRO #1]:
+  ID: 1
+  Placa: ABC-1234
+  Marca: AUDI
+  Modelo: E-TRON
+  Ano: 2022
+  Quilometragem: 12.00 Km
+  Categoria: ESPORTIVO
+  Alugado: Sim
+
+[CARRO #2]:
+  ID: 2
+  Placa: MHM-2022
+  Marca: TOYOTA
+  Modelo: COROLLA
+  Ano: 2022
+  Quilometragem: 621.00 Km
+  Categoria: ESPORTIVO
+  Alugado: Não
+
+[CARRO #3]:
+  ID: 3
+  Placa: BEZ-9999
+  Marca: HYUNDAI
+  Modelo: E-TRON
+  Ano: 2024
+  Quilometragem: 16.00 Km
+  Categoria: SEDAN
+  Alugado: Não
+
+[CARRO #4]:
+  ID: 4
+  Placa: FOR-1904
+  Marca: ALFA ROMEO
+  Modelo: ARCHIVES
+  Ano: 2021
+  Quilometragem: 20.00 Km
+  Categoria: SEDAN
+  Alugado: Não
+
+[CARRO #5]:
+  ID: 5
+  Placa: JJK-5274
+  Marca: LAND ROVER
+  Modelo: RANGER ROVER
+  Ano: 2022
+  Quilometragem: 10.00 Km
+  Categoria: CROSSOVER
+  Alugado: Não
+
+[CARRO #6]:
+  ID: 6
+  Placa: NJK-1970
+  Marca: LAND ROVER
+  Modelo: RANGER ROVER EVOQUE SI4 SE
+  Ano: 2021
+  Quilometragem: 9.00 Km
+  Categoria: CROSSOVER
+  Alugado: Não
+
+[CARRO #7]:
+  ID: 7
+  Placa: TJK-8402
+  Marca: LAND ROVER
+  Modelo: Discovery Sport 2.0 Si4 HSE
+  Ano: 2020
+  Quilometragem: 11.00 Km
+  Categoria: CROSSOVER
+  Alugado: Não
+
+[CARRO #8]:
+  ID: 8
+  Placa: JDR-0312
+  Marca: VOLKSWAGEN
+  Modelo: POLO
+  Ano: 2016
+  Quilometragem: 5.00 Km
+  Categoria: SUV
+  Alugado: Não
+
+[CARRO #9]:
+  ID: 9
+  Placa: JSQ-7436
+  Marca: CHEVROLET
+  Modelo: ONIX
+  Ano: 2015
+  Quilometragem: 150.00 Km
+  Categoria: SUV
+  Alugado: Não
+
+[CARRO #10]:
+  ID: 10
+  Placa: HMG-0248
+  Marca: FORD
+  Modelo: ECOSPORT
+  Ano: 2019
+  Quilometragem: 100.00 Km
+  Categoria: PICAPE
+  Alugado: Não
+
+[CARRO #11]:
+  ID: 11
+  Placa: PEC-2032
+  Marca: OPEL
+  Modelo: CORSA
+  Ano: 2017
+  Quilometragem: 200.00 Km
+  Categoria: PICAPE
+  Alugado: Não
+
+[CARRO #12]:
+  ID: 12
+  Placa: MUK-6892
+  Marca: TOYOTA
+  Modelo: COROLLA
+  Ano: 2020
+  Quilometragem: 20.00 Km
+  Categoria: ESPORTIVO
+  Alugado: Sim
+
+[CARRO #13]:
+  ID: 13
+  Placa: NTD-4729
+  Marca: RAM
+  Modelo: FORESTER
+  Ano: 2014
+  Quilometragem: 105.00 Km
+  Categoria: SUV
+  Alugado: Não
+
+[CARRO #14]:
+  ID: 14
+  Placa: NMP-0123
+  Marca: ACURA
+  Modelo: TLX
+  Ano: 2015
+  Quilometragem: 116.00 Km
+  Categoria: ESPORTIVO
+  Alugado: Não
+

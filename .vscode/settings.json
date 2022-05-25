@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vehicle.h": "c",
+        "user.h": "c",
+        "typeinfo": "c",
+        "menu.h": "c",
+        "utils.h": "c",
+        "cstdlib": "c",
+        "algorithm": "c",
+        "functional": "c"
+    }
+}
